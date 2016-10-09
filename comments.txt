@@ -1,2 +1,2 @@
-Unfortunately cannot seem to get any runs or assertations when running rooms_spec.rb 
+Unfortunately cannot seem to get any runs or assertions when running rooms_spec.rb 
 Unsure if the tests are just testing nothing? Might need some help making them test something!
