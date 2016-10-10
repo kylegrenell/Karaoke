@@ -1,2 +1,6 @@
+9/10/16
 Unfortunately cannot seem to get any runs or assertions when running rooms_spec.rb 
 Unsure if the tests are just testing nothing? Might need some help making them test something!
+
+10/10/16
+Tests updated with Zjolt, debugged errors inlcuding extra end stopping the tests from running. 
